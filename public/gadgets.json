@@ -1,0 +1,172 @@
+[
+  {
+    "id": "1",
+    "title": "Apple iPhone 15 Pro Max",
+    "image": "https://mrenergy.ae/wp-content/uploads/2024/02/2-768x768.jpg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "1. 6.7-inch Super Retina XDR display",
+      "2. A17 Bionic chip",
+      "3. Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "4. LiDAR Scanner",
+      "5. Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "title": "Samsung Galaxy S23 Ultra",
+    "image": "https://www.excelestore.com.bd/public/uploads/all/jgMosu41Gfx32OjVZXFgq2Ar8SHc81v7z5YwUkql.webp",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "The most powerful Galaxy yet, with a 200MP camera and S-Pen.",
+    "specification": [
+      "1. 6.8-inch Dynamic AMOLED display",
+      "2. Snapdragon 8 Gen 2",
+      "3. 200MP camera system",
+      "4. 5000mAh battery",
+      "5. S-Pen support"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "3",
+    "title": "Google Pixel 8 Pro",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Pixel-8-Pro-Obsidian-7046.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Google's best AI-powered camera phone.",
+    "specification": [
+      "1. 6.7-inch LTPO OLED display",
+      "2. Google Tensor G3",
+      "3. 50MP main camera",
+      "4. Android 14",
+      "5. 5000mAh battery"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": "4",
+    "title": "OnePlus 12",
+    "image": "https://dazzle.sgp1.cdn.digitaloceanspaces.com/23298/OnePlus-12-(1).png",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "Blazing fast performance with Snapdragon 8 Gen 3.",
+    "specification": [
+      "1. 6.8-inch Fluid AMOLED display",
+      "2. Snapdragon 8 Gen 3",
+      "3. 100W fast charging",
+      "4. Hasselblad camera",
+      "5. 16GB RAM"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "5",
+    "title": "Sony Xperia 1 V",
+    "image": "https://swpno.com/wp-content/uploads/2024/01/sony-xperia-1-v-price-in-bangladesh-1.webp",
+    "category": "Smartphones",
+    "price": 1099,
+    "description": "Pro-level photography with Sony Xperia 1 V.",
+    "specification": [
+      "1. 4K OLED display",
+      "2. Snapdragon 8 Gen 2",
+      "3. Alpha camera technology",
+      "4. Water-resistant",
+      "5. 512GB storage"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": "6",
+    "title": "Asus ROG Phone 7",
+    "image": "https://diamu.com.bd/wp-content/uploads/2023/05/Asus-Rog-7-2.jpg",
+    "category": "Smartphones",
+    "price": 999,
+    "description": "Gaming phone with unbeatable performance.",
+    "specification": [
+      "1. 6.78-inch AMOLED display",
+      "2. Snapdragon 8 Gen 2",
+      "3. 165Hz refresh rate",
+      "4. AirTrigger controls",
+      "5. 6000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "7",
+    "title": "Apple MacBook Pro 16-inch",
+    "image": "https://switch.com.ph/cdn/shop/products/MacBook_Pro_13-inch_Silver_PDP_Image_Position-1__ROSA.jpg?v=1679638435",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "Ultimate power with M3 Max chip.",
+    "specification": [
+      "1. 16-inch Liquid Retina XDR display",
+      "2. Apple M3 Max chip",
+      "3. 32GB RAM",
+      "4. 2TB SSD",
+      "5. MagSafe charging"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "8",
+    "title": "Dell XPS 15",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/XPS-15-9530-c-1421.jpg",
+    "category": "Laptops",
+    "price": 1899,
+    "description": "Sleek design and powerful performance.",
+    "specification": [
+      "1. 15.6-inch OLED display",
+      "2. Intel Core i9 13th Gen",
+      "3. NVIDIA RTX 4060",
+      "4. 1TB SSD",
+      "5. Windows 11 Pro"
+    ],
+    "availability": false,
+    "rating": 4.7
+  },
+  {
+    "id": "9",
+    "title": "Samsung Galaxy Watch 6",
+    "image": "https://s3-eu-west-1.amazonaws.com/klk-website/upload/product/29027/samsung-galaxy-watch-6-bluetooth-smartwatch-44mm-silver-with-silver-sport-band-1690453181-1.png",
+    "category": "Smartwatches",
+    "price": 399,
+    "description": "Advanced fitness tracking with Wear OS.",
+    "specification": [
+      "1. 1.5-inch AMOLED display",
+      "2. Wear OS by Google",
+      "3. ECG monitoring",
+      "4. Sleep tracking",
+      "5. 5ATM water resistance"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "10",
+    "title": "Apple Watch Series 9",
+    "image": "https://adminapi.applegadgetsbd.com/storage/media/large/Apple-Watch-Series-9-(5)-2212.jpg",
+    "category": "Smartwatches",
+    "price": 429,
+    "description": "The best Apple Watch experience yet.",
+    "specification": [
+      "1. Always-on Retina display",
+      "2. Blood oxygen monitoring",
+      "3. ECG app",
+      "4. Crash detection",
+      "5. watchOS 10"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]

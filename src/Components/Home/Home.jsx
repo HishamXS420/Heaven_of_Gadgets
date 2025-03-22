@@ -1,10 +1,12 @@
 import Banner from "../Banner/Banner";
+import Gadgets from "../Gadgets/Gadgets";
 
 
 const Home = () => {
     return (
-        <div className="bg-purple-400">
+        <div >
             <Banner></Banner>
+            <Gadgets></Gadgets>
             </div>
     );
 };
